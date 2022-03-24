@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning <b>Data Science & Machine Learning</b>
 - 💞️ I’m looking to collaborate on <b>Data Science & AI related tasks</b>
 - 📫 You can reach me on my !
-<br>
     Email: <b>asif88383@gmail.com</b>
 
 <h2><i>💻 Tech Stack</i></h2>
