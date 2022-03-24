@@ -1,7 +1,7 @@
 - 👋 Hi, I’m <b>Muhammad Asif
 - 👀 I’m interested in <b>Data Science | Artificial Intelligence | Robotics | Statistics
 - 🌱 I’m currently learning <b>Data Science & Machine Learning
-- 💞️ I’m looking to collaborate on Data Science & AI related tasks
+- 💞️ I’m looking to collaborate on <b>Data Science & AI related tasks
 - 📫 You can reach me on my !
 Email: asif88383@gmail.com
 
