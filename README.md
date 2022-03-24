@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <b>Muhammad Asif</b>
-- 👀 I’m interested in <b>Data Science | Artificial Intelligence | Robotics | Statistics
+- 👀 I’m interested in <b>Data Science | Artificial Intelligence | Robotics | Statistics</b>
 - 🌱 I’m currently learning <b>Data Science & Machine Learning
 - 💞️ I’m looking to collaborate on <b>Data Science & AI related tasks
 - 📫 You can reach me on my !
