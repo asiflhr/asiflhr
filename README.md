@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muhammad Asif.
+- 👋 Hi, I’m Muhammad Asif
 - 👀 I’m interested in Data Science | Artificial Intelligence | Robotics | Statistics
 - 🌱 I’m currently learning Data Science & Machine Learning
 - 💞️ I’m looking to collaborate on Data Science & AI related tasks
