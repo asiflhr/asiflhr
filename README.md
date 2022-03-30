@@ -1,7 +1,7 @@
 - 👋 Hi, I’m <b>Muhammad Asif</b>
-- 👀 I’m interested in <b>Data Science | Artificial Intelligence | Robotics | Statistics</b>
-- 🌱 I’m currently learning <b>Data Science & Machine Learning</b>
-- 💞️ I’m looking to collaborate on <b>Data Science & AI related tasks</b>
+- 👀 I’m interested in <b>MERN Stack | React | Artificial Intelligence | Robotics</b>
+- 🌱 I’m currently learning <b>MERN Stack and React</b>
+- 💞️ I’m looking to collaborate on <b>MERN Stack related tasks</b>
 - 📫 You can reach me on my !
     Email: <b>asif88383@gmail.com</b>
 
