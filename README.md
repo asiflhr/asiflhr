@@ -84,9 +84,6 @@
     <td align='center'>
         <img src="https://buttercms.com/static/images/tech_banners/Flask.png" >
     </td>
-</tr>
-
-<tr>
     <td align='center'>
         <img src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/aws-logo-blog-header.png?itok=t4o3meiH">
     </td>
