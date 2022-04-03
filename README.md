@@ -78,6 +78,9 @@
     <td align='center'>
         <img src="https://www.trymito.io/_next/image?url=%2FMito.svg&w=64&q=75" >
     </td>
+    <td align='center'>
+        <img src="https://avatars.githubusercontent.com/u/7892489?s=200&v=4" >
+    </td>
     
 </tr>
 <tr>
