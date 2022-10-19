@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Asif</h1>
 <h3 align="center">A passionate MERN Stack | React/NextJS Developer from Lahore, Pakistan.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asif88383&label=Profile%20views&color=0e75b6&style=flat" alt="asif88383" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asiflhr&label=Profile%20views&color=0e75b6&style=flat" alt="asif88383" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asif88383" alt="asif88383" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asiflhr" alt="asiflhr" /></a> </p>
 
 - 🔭 I’m currently working on **MERN Stack and React**
 
@@ -13,14 +13,14 @@
 
 - 💬 Ask me about **reactJS, NextJS, TailwindCss, Framer-Motion**
 
-- 📫 How to reach me **asif88383@gmail.com**
+- 📫 How to reach me **asiflhr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/codepen.io/asif88383" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen.io/asif88383" height="30" width="40" /></a>
-<a href="https://dev.to/dev.to/asif88383" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/asif88383" height="30" width="40" /></a>
-<a href="https://twitter.com/asif88383" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asif88383" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/asif88383/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/asif88383/" height="30" width="40" /></a>
+<a href="https://codepen.io/codepen.io/asiflhr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen.io/asiflhr" height="30" width="40" /></a>
+<a href="https://dev.to/dev.to/asiflhr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/asif88383" height="30" width="40" /></a>
+<a href="https://twitter.com/asiflhr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asiflhr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/asiflhr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/asif88383/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/stackoverflow.com/users/5763388/muhammad-asif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow.com/users/5763388/muhammad-asif" height="30" width="40" /></a>
 <a href="https://codesandbox.com/codesandbox.io/u/asif88383" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codesandbox.io/u/asif88383" height="30" width="40" /></a>
 <a href="https://kaggle.com/kaggle.com/pjays789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle.com/pjays789" height="30" width="40" /></a>
@@ -42,8 +42,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/asif88383"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/asif88383" /></a><a href="https://ko-fi.com/https://ko-fi.com/asif88383"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/asif88383" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asif88383&show_icons=true&locale=en&layout=compact" alt="asif88383" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asiflhr&show_icons=true&locale=en&layout=compact" alt="asiflhr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asif88383&show_icons=true&locale=en" alt="asif88383" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asiflhr&show_icons=true&locale=en" alt="asiflhr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asif88383&" alt="asif88383" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asiflhr&" alt="asiflhr" /></p>
