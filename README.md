@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Asif</h1>
-<h3 align="center">A passionate MERN Stack | React/NextJS Developer from Lahore, Pakistan.</h3>
+<h3 align="center">React | NextJS | React-Native Developer from Lahore, Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asiflhr&label=Profile%20views&color=0e75b6&style=flat" alt="asif88383" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **MERN Stack related tasks**
 
-- 💬 Ask me about **reactJS, NextJS, TailwindCss, Framer-Motion**
+- 💬 Ask me about **reactJS, NextJS, React-Native, TailwindCss, Framer-Motion**
 
 - 📫 How to reach me **asif88383@gmail.com**
 
