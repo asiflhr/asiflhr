@@ -535,23 +535,25 @@
 </p>
 <br /><br />
 
-<p align="center">
+<p align="center"
+  style="
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+  ">
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=asiflhr&show_icons=true&locale=en&layout=compact"
     alt="asiflhr"
   />
-</p>
-
-<p align="center">
-  &nbsp;<img
+  <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=asiflhr&show_icons=true&locale=en"
     alt="asiflhr"
   />
-</p>
-
-<p align="center">
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=asiflhr&"
