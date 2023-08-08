@@ -538,8 +538,6 @@
 <p align="center"
   style="
     display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
     gap: 30px;
     align-items: center;
     justify-content: center;
