@@ -18,12 +18,12 @@
   /></a>
 </p>
 
-<h2>
+<h4>
   - 🔭 I’m currently working on **MERN Stack and React** - 🌱 I’m currently
   learning **Frontend Frameworks** - 👯 I’m looking to collaborate on **MERN
   Stack related tasks** - 💬 Ask me about **reactJS, NextJS, React-Native,
   TailwindCss, Framer-Motion** - 📫 How to reach me **asif88383@gmail.com**
-</h2>
+</h4>
 
 <h3 align="center">Connect with me:</h3>
 <p
@@ -535,23 +535,23 @@
 </p>
 <br /><br />
 
-<p align="center"
-  style="
-    display: flex;
-    gap: 30px;
-    align-items: center;
-    justify-content: center;
-  ">
+<p align="center">
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=asiflhr&show_icons=true&locale=en&layout=compact"
     alt="asiflhr"
   />
-  <img
+</p>
+
+<p align="center">
+  &nbsp;<img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=asiflhr&show_icons=true&locale=en"
     alt="asiflhr"
   />
+</p>
+
+<p align="center">
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=asiflhr&"
