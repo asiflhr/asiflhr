@@ -18,14 +18,17 @@
   /></a>
 </p>
 
-<h4>
-  - 🔭 I’m currently working on **MERN Stack and React** - 🌱 I’m currently
-  learning **Frontend Frameworks** - 👯 I’m looking to collaborate on **MERN
-  Stack related tasks** - 💬 Ask me about **reactJS, NextJS, React-Native,
-  TailwindCss, Framer-Motion** - 📫 How to reach me **asif88383@gmail.com**
-</h4>
+<p>
+  - 🔭 I’m currently working on <b>MERN Stack and React</b> <br>
+  - 🌱 I’m currently learning <b>Frontend Frameworks</b>  <br>
+  - 👯 I’m looking to collaborate on <b>MERN Stack related tasks</b>  <br>
+  - 💬 Ask me about <b>reactJS, NextJS, be, TailwindCss, Framer-Motion</b>  <br>
+  - 📫 How to reach me <b>asif88383@gmail.com</b> <br>
+</p>
 
-<h3 align="center">Connect with me:</h3>
+<br>
+<br>
+<h2 align="center">Connect with me:</h2>
 <p
   align="center"
   style="
@@ -183,7 +186,9 @@
   /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<br>
+<br>
+<h2 align="center">Languages and Tools:</h2>
 <p
   align="center"
   style="
@@ -505,7 +510,9 @@
   </a>
 </p>
 
-<h3 align="center">Support:</h3>
+<br>
+<br>
+<h2 align="center">Support:</h2>
 <p
   align="center"
   style="
@@ -533,8 +540,8 @@
       alt="https://ko-fi.com/asif88383"
   /></a>
 </p>
-<br /><br />
 
+<br><br>
 <p align="center">
   <img
     align="left"
@@ -542,7 +549,7 @@
     alt="asiflhr"
   />
 </p>
-
+<br>
 <p align="center">
   &nbsp;<img
     align="center"
@@ -550,7 +557,7 @@
     alt="asiflhr"
   />
 </p>
-
+<br>
 <p align="center">
   <img
     align="center"
