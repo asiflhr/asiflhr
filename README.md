@@ -22,7 +22,7 @@
   - 🔭 I’m currently working on <b>MERN Stack and React</b> <br>
   - 🌱 I’m currently learning <b>Frontend Frameworks</b>  <br>
   - 👯 I’m looking to collaborate on <b>MERN Stack related tasks</b>  <br>
-  - 💬 Ask me about <b>reactJS, NextJS, be, TailwindCss, Framer-Motion</b>  <br>
+  - 💬 Ask me about <b>reactJS, NextJS, TailwindCss, Framer-Motion</b>  <br>
   - 📫 How to reach me <b>asif88383@gmail.com</b> <br>
 </p>
 
