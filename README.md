@@ -19,11 +19,12 @@
 </p>
 
 <p>
-  - 🔭 I’m currently working on <b>MERN Stack and React</b> <br>
-  - 🌱 I’m currently learning <b>Frontend Frameworks</b>  <br>
-  - 👯 I’m looking to collaborate on <b>MERN Stack related tasks</b>  <br>
-  - 💬 Ask me about <b>reactJS, NextJS, TailwindCss, Framer-Motion</b>  <br>
+  - 🔭 I’m currently working on <b>MERN Stack (React.js, Next.js, and React-Native)</b> <br>
+  - 🌱 I’m currently learning <b>AI Agents</b><br>
+  - 👯 I’m looking to collaborate on <b>AI, NLP, AI Agents etc</b>.<br>
+  - 💬 Ask me about <b>React.ja, Next.js, React-Native</b>  <br>
   - 📫 How to reach me <b>asif88383@gmail.com</b> <br>
+  - 📫 WhatsApp <b>+92-317-7051128</b> <br>
 </p>
 
 <br>
