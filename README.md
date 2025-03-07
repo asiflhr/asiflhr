@@ -27,6 +27,8 @@
   - 📫 WhatsApp <b>+92-317-7051128</b> <br>
 </p>
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+
 <br>
 <br>
 <h2 align="center">Connect with me:</h2>
