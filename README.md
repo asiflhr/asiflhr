@@ -132,5 +132,5 @@ graph TD
 
 <!-- Snake Game Contribution Grid -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/asiflhr/asiflhr/output/github-contribution-grid-snake.svg" alt="Snake game showing GitHub contributions" />
+  <img src="https://raw.githubusercontent.com/asiflhr/asiflhr/main/dist/github-contribution-grid-snake.svg" alt="Snake game showing GitHub contributions" />
 </div>

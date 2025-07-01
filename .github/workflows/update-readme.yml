@@ -1,0 +1,43 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 1 * * *' # Runs at 01:00 UTC daily
+  workflow_dispatch: # Allows manual triggering
+
+permissions:
+  contents: write
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update README
+        run: |
+          # Add or update a hidden timestamp comment in README.md
+          # This ensures a change is detected for commit
+          timestamp="<!-- Last updated: $(date -u +"%Y-%m-%d %H:%M:%S UTC") -->"
+          # Check if the comment already exists
+          if grep -q "<!-- Last updated: .* -->" README.md; then
+            # Replace existing comment
+            sed -i "s|<!-- Last updated: .* -->|$timestamp|" README.md
+          else
+            # Add new comment at the end of the file
+            echo "$timestamp" >> README.md
+          fi
+
+      - name: Commit and push if changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          # Commit only if there are changes
+          if ! git diff --staged --quiet; then
+            git commit -m "docs: Auto-update README for activity graph"
+            git push
+          else
+            echo "No changes to commit."
+          fi
