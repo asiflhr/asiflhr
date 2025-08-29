@@ -17,7 +17,7 @@
     <img src="https://komarev.com/ghpvc/?username=asiflhr&label=PROFILE+VIEWS&color=00FF87&style=flat" alt="Profile views" /> •
     <img src="https://img.shields.io/github/followers/asiflhr?label=GITHUB+FOLLOWERS&style=social" alt="GitHub followers" /> •
     <img src="https://img.shields.io/badge/CLIENTS-50+-00FF87" alt="50+ Clients" /> •
-    <img src="https://img.shields.io/badge/PROJECTS-100+-60EFFF" alt="200+ Projects" />
+    <img src="https://img.shields.io/badge/PROJECTS-150+-60EFFF" alt="200+ Projects" />
   </p>
 
   <!-- GitHub Trophies with Animation -->
