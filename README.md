@@ -90,9 +90,9 @@ graph TD
 
 | Project                                                                       | Description                                          | Tech Stack                  | Live Demo                             |
 | ----------------------------------------------------------------------------- | ---------------------------------------------------- | --------------------------- | ------------------------------------- |
-| **[AI Business Assistant](https://github.com/asiflhr/ai-business-assistant)** | AI-powered virtual assistant for business automation | Next.js, OpenAI, LangChain  | [Demo](https://ai-assistant-demo.com) |
-| **[E-commerce AI Chatbot](https://github.com/asiflhr/ecom-ai-chatbot)**       | Conversational AI for online stores                  | React Native, NLP, Firebase | [Demo](https://expo.dev/...)          |
-| **[Content Generator Pro](https://github.com/asiflhr/content-generator-pro)** | AI content creation platform                         | Next.js, Stripe, OpenAI     | [Demo](https://content-gen.com)       |
+| **[AI Girlfriend](https://github.com/asiflhr/ai-girlfriend)** | AI-powered virtual girlfriend | HTML, CSS, Gemini  | [Demo](https://ai-girlfriend-sigma-jet.vercel.app/) |
+| **[Snapgram - Social media](https://github.com/asiflhr/snapgram-react-vite-appwrite-tailwind-reactQuery)**       | Instagram like social media                  | React, Tailwind, Appwrite | [Demo](https://snapvite.vercel.app/)          |
+| **[Zentry - Clone](https://github.com/asiflhr/zentry-clone-react-tailwind-gsap)** | Zentry - Clone - Modern Animations                       | Next.js, Tailwind, GSAP     | [Demo](https://zentry-gsap.vercel.app/)       |
 
 ## 💼 **CLIENT SUCCESS STORIES** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
 
