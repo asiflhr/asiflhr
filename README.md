@@ -79,7 +79,7 @@
 
 | Project                                                                       | Description                                          | Tech Stack                  | Live Demo                             |
 | ----------------------------------------------------------------------------- | ---------------------------------------------------- | --------------------------- | ------------------------------------- |
-| **[AI Girlfriend](https://github.com/asiflhr/ai-girlfriend)** | AI-powered virtual assistant experience | HTML, CSS, Gemini  | [Demo](https://ai-girlfriend-sigma-jet.vercel.app/) |
+| **[Nexa-AI](https://github.com/asiflhr/nexa-ai-companion)** | AI-powered virtual assistant experience | Next.js, Gemini, Gemini  | [Demo](https://nexa-ai-companion.vercel.app/) |
 | **[Snapgram](https://github.com/asiflhr/snapgram-react-vite-appwrite-tailwind-reactQuery)** | Instagram-like social platform | React, Tailwind, Appwrite | [Demo](https://snapvite.vercel.app/)  |
 | **[Zentry - Clone](https://github.com/asiflhr/zentry-clone-react-tailwind-gsap)** | Modern animated UI clone | Next.js, Tailwind, GSAP     | [Demo](https://zentry-gsap.vercel.app/)|
 
