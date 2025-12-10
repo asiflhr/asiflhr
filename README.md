@@ -68,7 +68,7 @@
 ## 📊 **GitHub Insights**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-master-orgs-github-readme-stats.vercel.app/api?username=asiflhr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  ![asiflhr's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=asiflhr&theme=default&chart=bars)
   <img height="180em" src="https://github-readme-stats-git-master-orgs-github-readme-stats.vercel.app/api/top-langs/?username=asiflhr&layout=compact&langs_count=8&theme=radical"/>
   <img height="180em" src="https://streak-stats.demolab.com/?user=asiflhr&theme=radical"/>
 </div>
