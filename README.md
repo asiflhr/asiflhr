@@ -19,6 +19,16 @@
 
 ---
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=asiflhr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
 ## 🔥 **Key Highlights**
 
 <div align="center">
@@ -67,11 +77,9 @@
 
 ## 📊 **GitHub Insights**
 
-<div align="center">
-  ![asiflhr's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=asiflhr&theme=default&chart=bars)
-  <img height="180em" src="https://github-readme-stats-git-master-orgs-github-readme-stats.vercel.app/api/top-langs/?username=asiflhr&layout=compact&langs_count=8&theme=radical"/>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=asiflhr&theme=radical"/>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=asiflhr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=asiflhr&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=asiflhr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
